@@ -1,0 +1,10 @@
+.submitted {
+    visibility: hidden;
+}
+
+.house {
+    width: 30vmax;
+    height: 30vmax;
+    color: orange;
+    font-size: 40px;
+}
